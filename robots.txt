@@ -24,3 +24,5 @@ Allow: /
 
 User-agent: Applebot
 Allow: /
+
+Sitemap: https://www.yogabeziers.fr/sitemap.xml
